@@ -1,4 +1,4 @@
-# E-commerce Admin API - Backend Task
+# Forsit-Backend-Developer-Task-Assignment
 
 ## Features Implemented
 
@@ -24,7 +24,7 @@
 1.  **Clone the repository:**
     ```bash
     git clone https://github.com/HasnainAli47/Forsit-Backend-Developer-Task-Assignment.git
-    cd E-commerce-Admin-API
+    cd Forsit-Backend-Developer-Task-Assignment
     ```
 
 2.  **Create and activate a virtual environment:**
