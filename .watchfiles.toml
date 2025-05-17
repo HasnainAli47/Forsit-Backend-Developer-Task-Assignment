@@ -1,0 +1,6 @@
+[watchfiles]
+ignore_directories = [
+    "venv",
+    ".git",
+    "__pycache__"
+]

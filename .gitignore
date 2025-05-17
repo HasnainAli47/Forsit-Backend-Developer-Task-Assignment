@@ -1,0 +1,11 @@
+# Virtual Environment
+venv/
+*.pyc
+__pycache__/
+.env
+.idea/
+.vscode/
+
+.DS_Store
+Thumbs.db
+test_database.db
